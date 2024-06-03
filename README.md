@@ -1,1 +1,0 @@
-# vinil_records
