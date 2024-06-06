@@ -1,5 +1,4 @@
-User-agent: *
-Sitemap:https://pavel3412.github.io/Hard_Vinil/sitemap.xml
-
+User-Agent: *
+Sitemap: https://pavel3412.github.io/Hard_Vinil/sitemap.xml
 
 
